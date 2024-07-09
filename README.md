@@ -11,6 +11,6 @@ Sends inputted user info, such as username, email, and password, from MediTracke
 ### Roadmap
 
 * More functions to allow for more specific API method calling
-** Individual password replacement without fully updating entire DB item
+  * Individual password replacement without fully updating entire DB item
 * Integrate into MediTracker.com
 * Authenticate users to see if information is already stored in the database.
